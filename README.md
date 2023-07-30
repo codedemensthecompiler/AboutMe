@@ -18,19 +18,23 @@ Personal & IT brief. Skills, Experience, Reference.
 | 🧭 Software Development         | Intermediate                    | 🧭 C++ Standard Library (C++20) | Quite Experienced               |
 | 🧭 C++                          | Experienced                     | 🧭                              |                                 |
 |                💡 C++ Detailed: |                (experience) 🎓: |               💡 C++ Libraries: |                (experience) 🎓: |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | 🧭 C++ Libraries                |                                 | 🧭 SFML 2.6                     | Experienced                     |
 | 🧭 Lua                          | Intermediate-Beginner           | 🧭 Boost (selected modules)     | Intermediate-Beginner           |
 |                                 |                                 | 🧭 Json for modern C++          | Intermediate                    |
 |                                 |                                 | 🧭 cURL                         |                                 |
 |                                 |                                 | 🧭 libCURL                      |                                 |
 |              💡 Linux Detailed: |                (experience) 🎓: |                                 |                                 |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | 🧭 Linux                        | Intermediate                    |                                 |                                 |
 | 🧭 Linux Bash                   | Intermediate                    |                                 |                                 |
 |                 💡 Compilation: |                (experience) 🎓: |        💡 Compilation Detailed: |                (experience) 🎓: |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | 🧭 Compilation Process          | Intermediate                    | 🧭 CMake                        | Intermediate                    |
 |                                 | Intermediate                    | 🧭 Make                         | Intermediate                    |
 |                                 | Intermediate                    | 🧭 Linux Bash                   |                                 |
 |                 💡 Engineering: |                (experience) 🎓: |        💡 Engineering Detailed: |                (experience) 🎓: |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | 🧭 Software Engineering         | Quite Experienced               | 🧭 Design Patterns              | Quite Experienced               |
 |                                 |                                 | 🍀 Own Design Patterns          |                                 |
 |                                 |                                 | 🧭 Principles                   | Intermediate-Beginner           |
@@ -38,6 +42,7 @@ Personal & IT brief. Skills, Experience, Reference.
 |                                 |                                 | 🌳 Doxygen                      |                                 |
 |                                 |                                 | 🌳 Markdown                     |                                 |
 |                       💡 Other: |                (experience) 🎓: |                       💡 Tools: |                (experience) 🎓: |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | 🌳 2D Graphic Design            | Intermediate                    | 🌳 GIMP                         | Quite Experienced               |
 
 
