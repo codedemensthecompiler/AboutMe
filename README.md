@@ -59,9 +59,9 @@ At this time, my work is in progress; and I'm combining IT skills; with my exper
 |                                 |                                 | 🦶🏻 Scretching                   | Novice                           |
 |                                 |                                 | ✍🏻 Study-While-Calisthenics     | Self-Efficacing; Enhanced        |
 |                                 |                                 |                                 |                                  |
-| 🙏🏻 Self-Work                    |Passionate Learning-Inexperienced| 🙏🏻 Working with unconsciousness | Endurative & Willfull            |
-|                                 |                                 |   🙏🏻 Meditation                 | Willfull                         |
-|                                 |                                 |   🙏🏻 Self-Inquiry               | Expansive; Willfull; Endurative  |
+| 🙏🏻 Self-Work                    |Passionate Learning-Inexperienced| 🙏🏻 Working with unconsciousness | Endurative & Willful            |
+|                                 |                                 |   🙏🏻 Meditation                 | Willful                         |
+|                                 |                                 |   🙏🏻 Self-Inquiry               | Expansive; Willful; Endurative  |
 |                                 |                                 |     🙏🏻 Introspection            | In past - Excensively            |
 |                                 |                                 |   🙏🏻 Pranayama; Asana           | Intermediate                     |
 |                                 |                                 |                                 |                                  |
