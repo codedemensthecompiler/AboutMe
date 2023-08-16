@@ -36,7 +36,6 @@ At this time, my work is in progress; and I'm combining IT skills; with my exper
 | 🧭 *old Skills*                 | *N/A*                           | 🧭 ActionScript 3               | None; Previously Intermediate,   |
 |                                 |                                 | 🧭 C#                           | None; Previously Intermediate,   |
 |                                 |                                 | 🧭 Google SketchUp              | Low-Key Intermediate             |
-|                                 |                                 | 🧭 Google SketchUp              | Low-Key Intermediate             |
 
 -----------
 
