@@ -38,6 +38,14 @@ At this time, my work is in progress; and I'm combining IT skills; with my exper
 |                                 |                                 | 🧭 Google SketchUp              | Low-Key Intermediate             |
 |                                 |                                 | 🧭 Google SketchUp              | Low-Key Intermediate             |
 
+-----------
+
+# Studying Aspects:
+👦🏻 *I'm not only working on IT; but also  ✍🏻 studying, and practicing exercises during study; particulary three: 🦶🏻 Cardio, 💪🏻 Calisthenics (or combination of both; in LIIT or HIIT); and 🙏🏻 Yoga focused on healing emotions; body.*
+
+-----------
+
+
 | 💡 Studying:                    | 🎓 (Experience-Progression)     | 💡 Studying-Detailed:           | 🎓 (Experience Progression)      |
 |---------------------------------|---------------------------------|---------------------------------|--------------------------------- |
 | ✍🏻 How-To-Study & Practice-Learn| Self-Efficacing; Implementing   | ✍🏻 Practice Methods             |                                  |
@@ -66,9 +74,6 @@ I mostly use Linux as a operating system for most IT developments, and Visual Co
 *In the past I used to code in Netbeans and Vim*
 
 💻 Interesting Projects I'm working on:
- - C++ Videogame 'Facade'-Engine: https://github.com/codedemensthecompiler/TheGuideOfSoul-Engine
  - Lessons about IT: https://github.com/codedemensthecompiler/LessonsOnIT
- - Unit; Acceptance Testing Framework for Linux: https://github.com/codedemensthecompiler/CodedemensTestingUtilities
- - Productivity; Maintance Framework for Linux: https://github.com/codedemensthecompiler/CodedemensUtility
 
 🫱🏻‍🫲🏼 I'm very open for experience exchanges; and wish to support you if you really need help! 🙂
